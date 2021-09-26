@@ -23,7 +23,7 @@ function f(){
    setTimeout('audio.play()','1500');
    count++;
    clearInterval(delay);
-delay=setInterval(f,3000);
+delay=setInterval(f,3500);
 }
 next.onclick=f;
-delay=setInterval(f,3000);
+delay=setInterval(f,3500);
