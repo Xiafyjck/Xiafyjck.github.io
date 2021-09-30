@@ -37,6 +37,6 @@ function changeWord(){
     setTimeout('audio.play()',2000);
     count++;
     delay=1100+187.5*iWord["trans"].length;//delay function
-    setTimeout(f,delay);
+    setTimeout(changeWord,delay);
 }
 next.addEventListener('click',changeWord);
