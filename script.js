@@ -3,7 +3,6 @@ const word=document.querySelector('#word');
 const quotetrans=document.querySelector('#trans');
 const quotenotes=document.querySelector('#notes');
 const audio=document.querySelector("audio")
-const an=document.getElementById("an")
 function sleep(time){
     return new Promise((resolve)=>setTimeout(resolve,time));
 }
@@ -23,22 +22,21 @@ randl.sort(()=>Math.random()>0.5?-1:1)
 randarr=sortedl.concat(randl)
 
 count=0;
-function f(){
-    word.textContent=data[randarr[count]]["name"];
-   next.setAttribute("width","10px")
-   quotetrans.textContent=data[randarr[count]]["trans"];
-   str='';
-   for(i in data[randarr[count]]["notes"]){
-       str+=data[randarr[count]]["notes"][i]
-   };
-   quotenotes.textContent=str;
-
-   audio.src="http://media.shanbay.com/audio/us/"+data[randarr[count]]["name"]+".mp3";
-   audio.play();
-   setTimeout('audio.play()','1500');
-   count++;
-   clearInterval(delay);
-delay=setInterval(f,3500);
+function changeWord(){
+    iWord=data[randarr[count]]
+    word.textContent=iWord["name"];
+    next.setAttribute("width","10px")
+    quotetrans.textContent=iWord["trans"];
+    str='';
+    for(i in iWord["notes"]){
+        str+=iWord["notes"][i]
+    };
+    quotenotes.textContent=str;
+    audio.src="http://media.shanbay.com/audio/us/"+iWord["name"]+".mp3";
+    audio.play();
+    setTimeout('audio.play()',2000);
+    count++;
+    delay=1100+187.5*iWord["trans"].length;//delay function
+    setTimeout(f,delay);
 }
-next.onclick=f;
-delay=setInterval(f,3500);
+next.addEventListener('click',changeWord);
