@@ -11,14 +11,14 @@ function sleep(time){
 sortedl=[]
 randl=[]
 j=data.length;
-for(i=0;i<50;i++){
+for(i=0;i<80;i++){
     j--;
     sortedl[i]=j;
 }
-for(i=0;i<data.length-50;i++){
+for(i=0;i<data.length-80;i++){
     randl[i]=i;
 }
-randl.sort(()=>Math.random()>0.5?-1:1)
+randl.sort(()=>Math.random()>0.4?-1:1)
 randarr=sortedl.concat(randl)
 
 count=0;
