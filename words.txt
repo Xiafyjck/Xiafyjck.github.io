@@ -1,0 +1,380 @@
+define,定义;界定;(颜色、轮廓)分明
+definition,定义;清晰度;by definition 必然
+identify,识别(认出);发现;表明 (sth作主语);共鸣
+identity,身份;特征;一致,a sense of national identity 民族的特征感->民族感->认同感
+determine,决定;确定
+determinism,决定论;宿命论
+judge,评判;法官裁判
+behavior,行为->表现->习性(行为方式);态度
+conduct,进行->指挥->表现;带领;传导;n.行为;执行方式,进行音乐会->指挥->带领 conduct oneself 指挥自己->在舞台上表现自己
+manner,行为举止方式方法
+perform,表现表演执行
+performance,表现表演执行性能
+demand,要求需求
+require,要求需要(正式)
+request,请求(礼貌)
+claim,声称;要求索求认领;夺走
+claimant,原告;要求者索求者
+acclaim,赞扬推崇
+command,指挥控制;命令;掌握
+assert,断言坚称主张;坚持自己主张 表现坚定oneself 维护自己权利 sth
+affirm,断言;(公开)肯定;证实
+allege,声称;断言 no proof
+ignore,(有意)忽视
+ignorant,无知愚昧的
+neglect,疏忽(不是故意)
+overlook,俯瞰;忽略(有意无意都可)
+own,拥有;自己的
+ownership,所有权
+property,所有物财物;房地产;性质属性
+monopoly,垄断
+possession,拥有;财物
+possess,拥有占有
+occupy,占领居于忙于
+occupation,占有职业消遣
+state,状态陈述国州
+statement,声明陈述
+statesman,政治家 褒义
+politician,政客 贬义
+spokesman,发言人
+understatement,轻描淡写;重事轻说
+illustrate,说明阐明
+specific,特定的明确的详情
+specify,明确 详述 specified 指定(的)
+detail,细节特遣队;详述派遣
+explanation,解释说明
+interpretation,解释说明->口译;演绎(乐器等)
+interpret,解释->理解为
+misinterpretation,误解
+exemplify,例证;是…的范例
+outline,轮廓概要;勾出轮廓概述
+view,观看看待;视野看法;景色,in view of sth 鉴于 with a view to doing 打算
+observe,观察;说评论;遵守,将观察到的->说出来 评论,observation +观察力
+witness,目击见证(者);以…为证
+glance,一瞥 浏览 (故意)
+glimpse,瞥见(被动)
+suggest,建议表明暗示
+refer,提及查阅关于;交送
+reference,提及参考;介绍信(人)
+mention,提及提到
+advocate,主张提倡(者)
+propose,提议->提名;打算;求婚
+proposal,n.提议提案求婚
+urge,强烈要求;驱策催促力劝;n.强切欲望冲动
+lobby,大堂;游说(对政府)
+recommend,建议;推荐
+convince,说服使确信
+convincing,有说服力的,convincing victory 压倒性胜利
+persuade,说服使相信
+advisory,顾问的咨询的;警报
+announce,宣布宣称
+publish,发布;出版刊登
+publication,出版发布(指代这个动作)
+publicity,宣传关注(宣发活动;公众的关注)
+publicize,宣传公布
+release,释放发布
+declaration,声明宣言宣告
+deal,n.协议大量 v.deal 给予 with 处理  in 经营
+approach,接近临近->接洽 方法路径
+executive,主管领导层;行政的管理的
+solution,解决方法溶液
+handle,处理操纵;触摸拿;把手
+administration,行政管理;施行
+regulation,规则->管制;规定的
+regulator,调节器;监管(者;机构)
+regulate,管制;调节
+regulatory,调节的管理的监管的
+supervise,监管指导
+surveillance,监视监管
+tackle,处理阻截->交涉
+resolve,决心分解
+monitor,监视(器)->显示器
+consider,考虑认为that体谅sb
+consideration,考虑体谅报酬
+reflect,反射反映反思(沉思);产生某种印象
+conceive,想象设想怀孕;认为 as
+deduce,推断演绎
+ponder,考虑深思
+admit,(不情愿;过错)承认;允许进入
+recognize,认出(认识);认可;承认;嘉奖(致谢)
+acknowledge,承认;感谢;确认收到(ack帧)
+produce,生产;引起导致(cause);出示;农产品
+productivity,生产力
+generate,产生;引起导致;produce cause
+generative,能产的;生殖的生成的.etc;able to produce sth
+output,输出;产量
+yield,产出;得出;屈服(be forced to do; stop having sth)
+manufacture,生产;编造
+manufacturer,制造商
+sense,n.感 觉;明智;意义含义,make sense 有意义
+sensory,感觉的;感官的
+perceive,察觉 notice;看待 think of
+conscious,意识到注意到;清醒的;有意(识)的
+consciousness,意识知觉
+subconscious,下意识的潜意识的
+detect,发现察觉(不易察觉的事物)
+detector,探测器发现者
+cognitive,认知的认识的
+comprehension,理解领悟
+predict,预测
+forecast,预测
+foreseeable,可预知的
+innovation,革新创新
+innovative,革新的创新的;有创新精神的
+formulate,规划制定;系统阐述
+invent,发明;编造
+novelty,新奇(的事物)
+promote,促进提拔;推销宣传
+further,此外 进一步 促进
+contribute,捐赠贡献->促成造成help to make;投稿
+advance,in提前->先进;进展进步;前进 ;预先的
+advanced,先进的高级的;晚期的年迈的(高级形态就是晚期嘛)
+boost,增强促进推动
+motivate,引发动机;激发激励
+motion,运动;示意(手势 点头等);提议
+motive,动机
+motor,马达 机动车(有引擎的都算机动车
+propel,推动驱使
+criticize,批评
+criticism,n.批评
+critique,n.批判评论(有分析的批评)
+critic,评论家
+blame,责备归咎于;be to blame负有责任(难辞其咎)(语法归类于主动表被动)
+condemn,谴责;判刑;迫使;宣布不安全 be…ed
+establish,建立;证实;立足oneself
+establishment,建立;机构;当局(统治集团 当权者
+construct,构造;n.结构构想
+construction,建筑建设
+provide,提供
+supply,供应供给
+cater,提供饮食(承办宴会);满足迎合
+equip,装备配备;传授培训;- sb with sth
+render,提供给予->呈献(提交)->呈现(表现)->使变得;翻译粉刷
+provision,供给储粮;条款规定
+gain,获得；增加
+obtian,获得;沿袭
+acquire,获得
+inherit,继承接手遗传
+attain,获得;达到
+reap,获得;收获
+select,选择挑选;a.精选的(a select block of flats 一栋精选公寓楼)
+option,选项选择
+optional,可选的非强制的
+filter,过滤器过滤
+extract,提取(拔出)摘录精华
+track,跟踪小径(轨道)踪迹
+trace,追随痕迹痕量(少许)描绘
+clue,线索提示
+trail,拖;慢吞吞地走;落后于;追踪小径痕迹
+evaluate,评估
+assess,评价评估估价
+estimate,估计估价
+overestimate,高估
+criterion,标准准则
+suppose,应该;本应(应发生而没发生);据说(sth suppose);认为猜想
+supposed,所谓的据说的
+infer,推断
+wonder,想知道(琢磨);惊奇(诧异,惊叹);奇迹
+assumption,假设;承担(责任)取得(权利)
+assume,假设承担呈现
+speculate,推测(that)思索(on about)投机(in)
+hypothesis,假说假设猜想
+premise,前提;场所
+presumably,可能大概
+bet,打赌
+prevent,阻止预防
+security,安全(措施;部门);担保保障;抵押品
+secure,获得;保护;安全的可靠的
+insurance,保险
+insure,保险确保
+guard,警卫看守保卫
+guardian,监护人保卫者
+conservation,保护保存节约
+immune,免疫免除的不受影响的
+aid,帮助援助
+shelter,庇护住处
+rescue,救援营救
+shield,盾牌保护遮挡
+calculate,计算推测,calculate on 指望
+calculated,蓄意的精心策划的(贬),take a calculated risk 冒险一搏(计算到了风险,还是要冒险)
+measure,衡量方法;量 程度
+measurable,显著的;可测量的
+figure,数字人物身影身材;计算认为
+count,数数;算数(说话算数那种算数),count as 把...算作...->看作,count on算上->依靠
+index,索引指标指数
+runway,跑道(T台)
+pride,骄傲自尊自豪
+decide,决定确定
+right,正确正当恰当;右;权力
+preliminary,初步的;预备的
+parliament,议会国会
+incite,煽动鼓动
+uplifting,鼓舞令人振奋的
+impinge,妨碍;对...不利
+starve,挨饿;饿死
+beyond,超出除...以外;以后晚于after;在...那边further;无法,超出->无法
+signal,信号;表明示意
+tape,胶带磁带
+enforce,强制执行强迫
+arbiter,仲裁人;权威
+faintly,略微地
+hint,暗示提示示意;少许(迹象)
+wasp,黄蜂
+waist,腰
+physique,体格体形
+severe,严重的严厉的;简朴的
+regard,关于认为;尊重;关注;注视
+meet,满足;遇见->连接处,遇见偶遇会面
+industry,行业;工业产业;勤奋;领域
+inherent,固有的;天生的,a quality is inherent in sth
+quality,性质品质;质量;优质(的)
+Denmark,丹麦
+voluntary,自愿的;志愿的
+adornment,装饰(品)
+material,物质的;重要的;材料素材(料子设备)
+image,形象印象意像;图像影像(象像)
+enforcement,(强制)执行
+contrast,差异;对比对照
+sanction,制裁(cn. p);批准(un.)
+newly,最近;新近
+revise,修正修订;复习
+ethical,道德的伦理的;合乎道德的
+charter,宪章章程;许可特许证;包租(包车包飞机),宪章章程是指官方声明的权利;于是衍生了许可证特许证
+phrase,短语习语;措辞
+cohesive,凝聚的;有凝聚力的;统一的团结的
+component,组件部件;组成部分成分
+various,各种各样的
+share,共享分享分担;都有(共同具有);n.股份一份
+practice,实践实际行动;惯例(常规)方法;练习,也指专业人士(医生律师)的业务工作工作地点
+apparent,显而易见显然;表面上
+allow,可让;容许;承认;斟留留出
+focus,聚焦关注集中;焦点
+manifest,表露显露;显而易见;清单
+fix,修理固定;确定;弄妥安排,可以感觉出都是固定安装修理衍生的含义
+register,注册登记;注意到;显示记录表露,没注册->没记录->没注意到
+impact,影响;撞击,冲击力撞击力;碰撞时(碰撞的时候)
+ideal,理想(的);典范,理想的两个含义:最佳的;幻想的完美世界
+access,途径通道;机会权利方法;读取,权利:使用权,进入权
+institute,机构协会;制定提出,制定制度规则;提出诉讼;学院研究所等
+compliance,遵照遵从服从
+persuasion,说服劝服;信仰,(宗教/政治)信仰
+address,解决处理;演讲;地址,着手解决;处理问题,write/speak to sb;a formal sppech
+misuse,滥用误用错用
+elevate,提高提升;提起;提拔,提拔晋升;提起是指抬起
+notion,观念看法概念
+particular,特定的;特别(de);细节详情;讲究的
+thrive,欣欣向荣;乐意做;成功,thrive on乐于,有成(成功) 反正是欣欣向荣的意思
+faith,信任信息;信仰,宗教/(宗教)信仰
+intangible,无形的;难以形容的,难以形容->不宜度量的
+threshold,门槛;临界点起始点
+struggle,奋斗拼搏;斗争,斗争争斗;挣扎;艰难行进 try extremely hard to achieve sth
+public,公众的大众的;公共的公立的;公开的
+sentiment,情绪态度观点;伤感,都是based on emotions
+curious,好奇的;稀奇的
+poll,民意调查;投票
+alongside,在...旁边;和...一起;与...相比
+specifically,专门地特别地;明确地详尽地
+dweller,居民
+leisure,休闲闲暇
+experience,经验经历体验
+consume,消耗消费,a felling consumes sb 某种情绪充满心头,fire consumes... 火焰吞噬...
+guardianship,监护
+constant,持续不断的;恒定的;常量,忠实的 a constant friend
+endorse,赞同支持认可;宣传,背书(支票)
+explicit,清楚明确的;直截了当的,清晰露骨的(形容性或暴力画面)
+explicitly,清楚明确直截了当的
+rural,乡村的
+conservative,保守的;保守党
+reform,改革改正
+object,对象;目的宗旨;物体物品;v.拒绝,对象是指研究对象等,不是情侣
+likewise,同样(地)类似地
+council,议会;委员会理事会
+plead,恳求祈求;申辩,在法律上申辩;以...为借口/解释,please
+terror,恐怖,恐惧惊骇
+sensible,明智的合理的;适当的;可感知的,可感知的指可感觉到的察觉到,sensitive敏感的
+infrastructure,基础设施
+site,地点场所;坐落于,on site 在现场(在场);临场,off site 不在场;离开
+intrusion,侵扰;闯入,侵犯
+crisis,危机;紧要关头
+meadow,草地;牧场
+issue,问题议题;期号;发行,at issue 问题的焦点,take issue with和...持有不同观点
+favour,帮助;赞同支持;受喜爱;有利于,偏爱有利于倾向于支持都有同一类含义,in ones favour更受某人喜爱-肯定是有利于某人才受喜爱-某人支持
+limited,有限的
+rate,率;价格;评定;评价为,速率比率税率,评价;评价为;评得上
+launch,发起发动启动,发动发行发射
+stylish,时尚的
+provinces,省份;范围领域,the provinces 外省
+renovation,翻新
+renewal,恢复;续订;更新,复兴;续签
+biased,有偏见的
+village,村庄;村民
+rip,(被)撕扯
+retain,保留保持保存
+enviable,令人羡慕的
+coherence,连贯条理一致(性);凝聚力
+permit,允许,准许许可
+density,密度
+corrupt,腐坏损坏(的)
+landscape,风景景色
+spectrum,谱;范围领域;各,the ethnic spectrum各种族,the political spectrum各个政治派别
+overshadow,使黯然失色;遮蔽;使蒙上阴影
+reinforce,加固加强,强化
+disregard,无视不顾,漠视
+preference,爱好偏好;优先(权)
+prejudice,偏见成见;损害不利于
+character,个性性格;特色特点;角色人格字
+resource,资源;个人素质,财力物理;资料;智谋un.of great resource足智多谋
+engage,参与从事;吸引;雇佣;啮合交战,都有主动交织在一起的意思
+corporate,公司的;团体的共同的,法人的
+monetary,货币的,金融的
+value,n.价值;v.估价;重视
+prosecute,起诉控告
+corruption,贪污腐败,单词的变体
+firm,公司;坚硬的坚定的,强调一个坚字
+consult,咨询查询;商量
+cause,v.导致引起;n.原因;理由;事业,原因起因;理由缘故;事业目标
+diffuse,扩散弥散(的);冗长的,扩散弥散渗透传播,冗长的难懂的
+halo,光环;晕;圈
+whereby,由此;借以,A whereby B 由此:凭借A可以B,一般不翻译出来
+deed,行为行动;锲约证书
+previous,先前的
+differentiate,v.区别区分辨别
+bribery,un.贿赂
+comprehensive,全面详尽综合的
+programme,计划方案;节目(单);课程;程序
+penalty,处罚惩罚;弊端不利
+whereas,尽管
+merit,优点价值;v.值得
+eliminate,消除排除根除;淘汰
+skepticism,怀疑态度
+malpractices,渎职;玩忽职守
+defame,诽谤中伤
+lenient,宽大的仁慈的
+constitute,构成组成;被视为算作;成立
+eventually,最终终于
+cease,停止终止
+exactly,确切地正好,not exactly不完全是;并不是
+nostalgia,怀旧
+plenty,大量;非常,很多;十分
+incentive,动力;激励
+ditch,抛弃;沟渠,摆脱;旷课
+truck,货车
+deliver,递送交付;兑现履行;发表;分娩
+constraint,限制约束
+migrate,迁移迁徙
+dwarf,使显得矮小;矮小的
+decline,下降衰落;谢绝
+overhead,开支;头顶上
+accelerate,加速加快
+transition,转变过渡
+discontinue,停止终止
+blunder,愚蠢的错误;疏忽
+legacy,遗产;遗留问题;老式的
+obsess,使痴迷;过于担心念叨
+tremendous,巨大的极大的;极好的
+remark,评论;谈到说起
+investor,投资者投资机构
+restore,恢复修复;归还
+cautious,谨慎的
+facilitate,促进;使便利
+cherish,珍爱;怀念
