@@ -8,22 +8,31 @@ function sleep(time){
 }
 
 //乱序
-sortedl=[]
-randl=[]
-j=data.length;
-for(i=0;i<80;i++){
-    j--;
-    sortedl[i]=j;
+rangelist=[]
+randlist=[]
+for(i=0;i<data.length;i++){
+    rangelist[i]=data.length-1-i;
 }
-for(i=0;i<data.length-80;i++){
-    randl[i]=i;
+// for(i=0;i<data.length;i++){
+//     r=Math.round(Math.random()*Math.log(i+1))%rangelist.length;
+//     randlist[i]=rangelist[r];
+//     rangelist.splice(r,1);
+// }
+for(i=0;i<2000;i++){
+    r=Math.round(Math.random()*Math.pow(i,0.75))%rangelist.length;
+    randlist[i]=rangelist[r];
+    rangelist.splice(r,1);
 }
-randl.sort(()=>Math.random()>0.4?-1:1)
-randarr=sortedl.concat(randl)
+//统计时间
+totaltime=0;
+for(i=0;i<data.length;i++){
+    totaltime+=1100+187.5*data[i]["trans"].length;
+}
+trans.textContent=Math.round(totaltime/60000)+'min';
 
 count=0;
 function changeWord(){
-    iWord=data[randarr[count]]
+    iWord=data[randlist[count]]
     word.textContent=iWord["name"];
     next.setAttribute("width","10px")
     quotetrans.textContent=iWord["trans"];
