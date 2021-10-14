@@ -26,7 +26,7 @@ for(i=0;i<2000;i++){
 //统计时间
 totaltime=0;
 for(i=0;i<data.length;i++){
-    totaltime+=1100+187.5*data[i]["trans"].length;
+    totaltime+=1200+160*data[i]["trans"].length;
 }
 trans.textContent=Math.round(totaltime/60000)+'min';
 
@@ -45,7 +45,7 @@ function changeWord(){
     audio.play();
     setTimeout('audio.play()',2000);
     count++;
-    delay=1100+187.5*iWord["trans"].length;//delay function
+    delay=1200+160*iWord["trans"].length;//delay function
     setTimeout(changeWord,delay);
 }
 next.addEventListener('click',changeWord);
