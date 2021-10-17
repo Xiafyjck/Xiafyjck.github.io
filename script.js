@@ -19,14 +19,14 @@ for(i=0;i<data.length;i++){
 //     rangelist.splice(r,1);
 // }
 for(i=0;i<2000;i++){
-    r=Math.round(Math.random()*Math.pow(i,0.75))%rangelist.length;
+    r=Math.round(Math.random()*Math.pow(i,0.85))%rangelist.length;
     randlist[i]=rangelist[r];
     rangelist.splice(r,1);
 }
 //统计时间
 totaltime=0;
 for(i=0;i<data.length;i++){
-    totaltime+=1200+160*data[i]["trans"].length;
+    totaltime+=1200+400*data[i]["trans"].length;
 }
 trans.textContent=Math.round(totaltime/60000)+'min';
 
@@ -35,7 +35,7 @@ function changeWord(){
     iWord=data[randlist[count]]
     word.textContent=iWord["name"];
     next.setAttribute("width","10px")
-    quotetrans.textContent=iWord["trans"];
+    quotetrans.textContent=iWord["name"]+iWord["trans"];
     str='';
     for(i in iWord["notes"]){
         str+=iWord["notes"][i]
@@ -43,9 +43,9 @@ function changeWord(){
     quotenotes.textContent=str;
     audio.src="http://media.shanbay.com/audio/us/"+iWord["name"]+".mp3";
     audio.play();
-    setTimeout('audio.play()',2000);
+    // setTimeout('audio.play()',2000);
     count++;
-    delay=1200+160*iWord["trans"].length;//delay function
+    delay=1200+400*iWord["trans"].length;//delay function
     setTimeout(changeWord,delay);
 }
 next.addEventListener('click',changeWord);

@@ -200,7 +200,7 @@ calculated,蓄意的精心策划的(贬),take a calculated risk 冒险一搏(计
 measure,衡量方法;量 程度
 measurable,显著的;可测量的
 figure,数字人物身影身材;计算认为
-count,数数;算数(说话算数那种算数),count as 把...算作...->看作,count on算上->依靠
+count,数数;算数(说话算数那种算数),count as 把什么.算作什么.->看作,count on算上->依靠
 index,索引指标指数
 runway,跑道(T台)
 pride,骄傲自尊自豪
@@ -210,9 +210,9 @@ preliminary,初步的;预备的
 parliament,议会国会
 incite,煽动鼓动
 uplifting,鼓舞令人振奋的
-impinge,妨碍;对...不利
+impinge,妨碍;对什么.不利
 starve,挨饿;饿死
-beyond,超出除...以外;以后晚于after;在...那边further;无法,超出->无法
+beyond,超出除什么.以外;以后晚于after;在什么.那边further;无法,超出->无法
 signal,信号;表明示意
 tape,胶带磁带
 enforce,强制执行强迫
@@ -272,12 +272,12 @@ public,公众的大众的;公共的公立的;公开的
 sentiment,情绪态度观点;伤感,都是based on emotions
 curious,好奇的;稀奇的
 poll,民意调查;投票
-alongside,在...旁边;和...一起;与...相比
+alongside,在什么.旁边;和什么.一起;与什么.相比
 specifically,专门地特别地;明确地详尽地
 dweller,居民
 leisure,休闲闲暇
 experience,经验经历体验
-consume,消耗消费,a felling consumes sb 某种情绪充满心头,fire consumes... 火焰吞噬...
+consume,消耗消费,a felling consumes sb 某种情绪充满心头,fire consumes什么. 火焰吞噬什么.
 guardianship,监护
 constant,持续不断的;恒定的;常量,忠实的 a constant friend
 endorse,赞同支持认可;宣传,背书(支票)
@@ -289,7 +289,7 @@ reform,改革改正
 object,对象;目的宗旨;物体物品;v.拒绝,对象是指研究对象等,不是情侣
 likewise,同样(地)类似地
 council,议会;委员会理事会
-plead,恳求祈求;申辩,在法律上申辩;以...为借口/解释,please
+plead,恳求祈求;申辩,在法律上申辩;以什么.为借口/解释,please
 terror,恐怖,恐惧惊骇
 sensible,明智的合理的;适当的;可感知的,可感知的指可感觉到的察觉到,sensitive敏感的
 infrastructure,基础设施
@@ -297,7 +297,7 @@ site,地点场所;坐落于,on site 在现场(在场);临场,off site 不在场;
 intrusion,侵扰;闯入,侵犯
 crisis,危机;紧要关头
 meadow,草地;牧场
-issue,问题议题;期号;发行,at issue 问题的焦点,take issue with和...持有不同观点
+issue,问题议题;期号;发行,at issue 问题的焦点,take issue with和什么.持有不同观点
 favour,帮助;赞同支持;受喜爱;有利于,偏爱有利于倾向于支持都有同一类含义,in ones favour更受某人喜爱-肯定是有利于某人才受喜爱-某人支持
 limited,有限的
 rate,率;价格;评定;评价为,速率比率税率,评价;评价为;评得上
@@ -384,7 +384,7 @@ step,步;步骤措施;阶梯阶段;迈步
 role,角色作用
 period,时期;句号,月经;课(时)
 cue,暗示提示,on cue恰好正好
-pivot,枢纽中心点;v.转动;平衡,v.由支点很容易联想转动和平衡,pivot on 以...为支点
+pivot,枢纽中心点;v.转动;平衡,v.由支点很容易联想转动和平衡,pivot on 以什么.为支点
 seriously,严重严肃认真地;非常,一般可以翻译成 真的
 anthropologist,人类学家
 enlist,谋求(帮助);参军
