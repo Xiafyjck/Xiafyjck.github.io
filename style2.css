@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(180,180,180);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wordFilling{
+    text-decoration: underline;
+}
+
+.sMarkedWord{
+    text-decoration: rgb(57,136,255) wavy underline;
+    position:relative;
+    color:black
+}
+.sNote{
+    color:gray;
+    position:absolute;
+    left: 0%;
+    top:-0.8em;
+    width:max-content;
+    font-size: 0.8em;
+    /* display: none; */
+    
+}
+
+.sMarkedWord:hover+.sNote{
+    color:#fff;
+    background-color:rgb(57,136,255);
+    border-radius: 0.15em;
+    display: inline;
+}
+.dMardkedWord{
+    display: inline;
+    position: relative;
+}

@@ -1,1 +1,0 @@
-正则无法识别 U.S.A Mr. Peter' humans'
